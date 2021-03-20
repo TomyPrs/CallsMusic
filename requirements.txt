@@ -1,4 +1,3 @@
-pyrogram
 TgCrypto
 python-dotenv
 youtube_dl
